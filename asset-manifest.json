@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spinterview/static/css/main.5f361e03.chunk.css",
+    "main.js": "/spinterview/static/js/main.d0d568a9.chunk.js",
+    "main.js.map": "/spinterview/static/js/main.d0d568a9.chunk.js.map",
+    "runtime-main.js": "/spinterview/static/js/runtime-main.df6018d8.js",
+    "runtime-main.js.map": "/spinterview/static/js/runtime-main.df6018d8.js.map",
+    "static/js/2.bd209e3f.chunk.js": "/spinterview/static/js/2.bd209e3f.chunk.js",
+    "static/js/2.bd209e3f.chunk.js.map": "/spinterview/static/js/2.bd209e3f.chunk.js.map",
+    "index.html": "/spinterview/index.html",
+    "precache-manifest.0bb8832bfc421b870bb67140cf1b6b2c.js": "/spinterview/precache-manifest.0bb8832bfc421b870bb67140cf1b6b2c.js",
+    "service-worker.js": "/spinterview/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/spinterview/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bd209e3f.chunk.js.LICENSE.txt": "/spinterview/static/js/2.bd209e3f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spinterview/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df6018d8.js",
+    "static/js/2.bd209e3f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d0d568a9.chunk.js"
+  ]
+}
