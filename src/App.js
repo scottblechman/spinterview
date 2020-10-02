@@ -5,7 +5,9 @@ import firebase from 'firebase/app';
 import 'firebase/auth';
 import 'firebase/firestore';
 
+// eslint-disable-next-line
 import { useAuthState } from 'react-firebase-hooks/auth';
+// eslint-disable-next-line
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
@@ -18,7 +20,9 @@ firebase.initializeApp({
   appId: process.env.appId
 })
 
+// eslint-disable-next-line
 const auth = firebase.auth();
+// eslint-disable-next-line
 const firestore = firebase.firestore();
 
 function App() {
