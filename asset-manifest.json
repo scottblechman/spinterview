@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/spinterview/static/css/main.5f361e03.chunk.css",
-    "main.js": "/spinterview/static/js/main.6a37674a.chunk.js",
-    "main.js.map": "/spinterview/static/js/main.6a37674a.chunk.js.map",
+    "main.js": "/spinterview/static/js/main.d24a8f77.chunk.js",
+    "main.js.map": "/spinterview/static/js/main.d24a8f77.chunk.js.map",
     "runtime-main.js": "/spinterview/static/js/runtime-main.df6018d8.js",
     "runtime-main.js.map": "/spinterview/static/js/runtime-main.df6018d8.js.map",
-    "static/js/2.b9c07876.chunk.js": "/spinterview/static/js/2.b9c07876.chunk.js",
-    "static/js/2.b9c07876.chunk.js.map": "/spinterview/static/js/2.b9c07876.chunk.js.map",
+    "static/js/2.80a35a91.chunk.js": "/spinterview/static/js/2.80a35a91.chunk.js",
+    "static/js/2.80a35a91.chunk.js.map": "/spinterview/static/js/2.80a35a91.chunk.js.map",
     "index.html": "/spinterview/index.html",
-    "precache-manifest.eef4f4602235bd23fa2852a7d923e907.js": "/spinterview/precache-manifest.eef4f4602235bd23fa2852a7d923e907.js",
+    "precache-manifest.06ae0658d1632328390fce0611342287.js": "/spinterview/precache-manifest.06ae0658d1632328390fce0611342287.js",
     "service-worker.js": "/spinterview/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/spinterview/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b9c07876.chunk.js.LICENSE.txt": "/spinterview/static/js/2.b9c07876.chunk.js.LICENSE.txt"
+    "static/js/2.80a35a91.chunk.js.LICENSE.txt": "/spinterview/static/js/2.80a35a91.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df6018d8.js",
-    "static/js/2.b9c07876.chunk.js",
+    "static/js/2.80a35a91.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6a37674a.chunk.js"
+    "static/js/main.d24a8f77.chunk.js"
   ]
 }
